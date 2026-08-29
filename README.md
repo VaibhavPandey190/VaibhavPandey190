@@ -1,83 +1,107 @@
 # Hi, I'm Vaibhav Pandey 👋
 
-### Software Development Engineer | Backend & API Development | Python | Perl | MySQL | Machine Learning
+### Senior Software Engineer | Backend & API Development | Python | Perl | SQL | Agile
 
-I build practical software solutions with a focus on **backend development, APIs, data processing, and automation**. I enjoy working across both established systems and modern technologies, turning real-world requirements into maintainable and reliable applications.
+I’m a **Senior Software Engineer Level 2** focused on backend development, API development, production support, and building reliable software systems. I work primarily with **Python, Perl, SQL, REST APIs, and Agile engineering practices**, while continuing to explore **Machine Learning, AI, and intelligent automation**.
+
+🎓 **MBA (IT)**  
+🏅 **B.Tech Gold Medalist**  
+📍 India
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Working with backend systems, APIs, and application development
-- 🧩 Experience with **Perl, CGI, REST APIs, MySQL, JavaScript/jQuery, and Python**
-- 🤖 Exploring **Machine Learning, AI, and data-driven applications**
-- 🗄️ Comfortable working with databases, SQL, data processing, and automation
-- 🔧 Interested in clean code, debugging, system design, and practical engineering
-- 📚 Continuously learning new technologies and strengthening problem-solving skills
+- 💼 Senior Software Engineer Level 2 at **QASource**
+- ⚙️ Focused on **backend engineering, API development, and production support**
+- 🐍 Working with **Python** and **Perl** for application and backend development
+- 🗄️ Experienced with **SQL and relational databases**
+- 🔌 Interested in designing, integrating, and maintaining **REST APIs**
+- 🔄 Comfortable with **Agile development and collaborative engineering workflows**
+- 🤖 Exploring **AI, Machine Learning, and Agentic AI**
+- 🧠 Interested in system thinking, debugging, automation, reliability, and practical engineering
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-`Perl` `Python` `JavaScript` `SQL` `HTML` `CSS`
+`Python` `Perl` `SQL` `JavaScript` `HTML` `CSS`
 
-**Backend & APIs**
+### Backend & APIs
 
-`REST APIs` `CGI` `API Integration` `Backend Development`
+`REST APIs` `API Development` `Backend Development` `CGI` `API Integration`
 
-**Databases & Tools**
+### Databases & Tools
 
-`MySQL` `MySQL Workbench` `Git` `GitHub` `Oracle EBS`
+`MySQL` `Git` `GitHub` `MySQL Workbench`
 
-**Data & AI**
+### Engineering
 
-`Machine Learning` `Data Processing` `AI`
+`Agile` `Production Support` `Debugging` `Automation` `Software Development`
+
+### AI & Data
+
+`Machine Learning` `Artificial Intelligence` `Agentic AI` `Data Processing`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
+
+### 🤖 Machine Learning Portfolio
+
+A collection of practical machine-learning projects and experiments covering regression, clustering, data preprocessing, model evaluation, and prediction.
+
+**Explore:** [machine-learning](https://github.com/VaibhavPandey190/machine-learning)
 
 ### 🏠 House Price Prediction
 
-A machine-learning project focused on predicting house prices using data-driven techniques.
+A regression project demonstrating a practical ML workflow from data preparation and feature analysis through model training, evaluation, prediction, and model persistence.
 
-**Repository:** [House-Prediction-](https://github.com/VaibhavPandey190/House-Prediction-)
-
-### 🤖 Machine Learning
-
-A collection of machine-learning work and experiments covering practical ML concepts and projects.
-
-**Repository:** [machine-learning](https://github.com/VaibhavPandey190/machine-learning)
+**Explore:** [House Price Prediction](https://github.com/VaibhavPandey190/machine-learning/tree/master/projects/house-price-prediction)
 
 ---
 
-## 📌 What I'm Currently Focused On
+## 🎯 Current Focus
 
 ```text
-Backend Development  →  APIs  →  Databases  →  Python  →  Machine Learning  →  AI
+Backend Engineering → APIs → SQL → Python/Perl → Automation → AI/ML → Agentic AI
 ```
 
-I’m particularly interested in building projects that combine **software engineering with data and AI** to solve practical problems.
+I’m particularly interested in the intersection of **software engineering and AI** — building practical systems where APIs, data, automation, and intelligent workflows work together.
 
 ---
 
-## 📈 GitHub
+## 📚 What I Share
 
-I use GitHub to build, experiment, document projects, and continuously improve my engineering skills.
+I enjoy exploring and discussing topics around:
 
-**Open to:**
-
-- Software engineering opportunities
-- Backend/API development
-- Machine learning and AI projects
-- Technical collaboration and interesting projects
+- Software Engineering & Backend Development
+- API Architecture & Integration
+- Agile Engineering
+- Production Reliability & Support
+- Artificial Intelligence & Machine Learning
+- Agentic AI & Automation
+- Developer Productivity and Engineering Practices
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Open To
 
-If you're interested in software development, backend engineering, APIs, machine learning, or AI, feel free to connect and collaborate.
+- Senior software engineering opportunities
+- Backend and API development
+- Python / Perl engineering
+- AI and Machine Learning projects
+- Technical collaboration and interesting engineering problems
 
-⭐ Thanks for visiting my profile!
+---
+
+## 🔗 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-pandey-69750a194/)
+- 💻 [GitHub](https://github.com/VaibhavPandey190)
+
+---
+
+⭐ Thanks for visiting my profile. Feel free to explore the repositories and connect!
